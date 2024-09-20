@@ -57,8 +57,6 @@
 // приоретет оператора И выше чем у или A && B || C && D
 // ! NOT|НЕ 
 
-let result = 1 && 0 && 7
-console.log (result)
 
 
 
