@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+.name{
+    background-color:aliceblue;
+    width: 100vw;
+    height: 100%; padding: 10px;
+    color: red;
+}
+.kont{
+    background-color: aquamarine;
+}
